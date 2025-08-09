@@ -1,0 +1,8 @@
+
+# macOS
+.DS_Store
+
+# IntelliJ / CLion / JetBrains IDE project files
+.idea/
+*.iml
+
